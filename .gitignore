@@ -1,0 +1,16 @@
+# Datasets
+datasets/online_retail_II.csv
+datasets/online_retail_II_cleaned.csv
+datasets/online_retail_II_features.csv
+datasets/customer_features.csv
+datasets/product_features.csv
+datasets/monthly_summary.csv
+datasets/summary_overview.csv
+datasets/summary_tables.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/ 
